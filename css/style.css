@@ -1,3 +1,8 @@
+@import url("https://cdn.web-fonts.ge/fonts/bpg-nino-mkhedruli/css/bpg-nino-mkhedruli.min.css");
+@import url("https://cdn.web-fonts.ge/fonts/bpg-nino-mtavruli/css/bpg-nino-mtavruli.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,100&display=swap');
+@import url("https://cdn.web-fonts.ge/fonts/bpg-algeti-compact/css/bpg-algeti-compact.min.css");
+
 ul {
     display: inline-block;
     vertical-align: top;
@@ -24,12 +29,7 @@ li {
     color: #4E6FAE;
 }
 
-.head {
-    height: 80;
-    width: 100%;
-    margin-top: 50px;
-    margin-left: 52px;
-}
+
 
 .numberinbox {
     height: 50px;
@@ -50,12 +50,13 @@ h2 {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    padding: 10px 10px;
+    padding: 12px 12px;
+
 }
 
 h3 {
     color: #8D81FF;
-    font-family: BPG Nino Mkhedruli;
+    font-family: "BPG Nino Mkhedruli", sans-serif;
     font-size: 32px;
     font-style: normal;
     font-weight: 400;
@@ -65,7 +66,7 @@ h3 {
 h4 {
     color: #8D81FF;
     color: #4E6FAE;
-    font-family: GL Tatishvili Metal;
+    font-family: "BPG Nino Mkhedruli", sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 700;
@@ -75,8 +76,7 @@ h4 {
 
 p {
     color: #4E6FAE;
-    font-family: GL Kirovi;
-    font-size: 16px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
@@ -88,4 +88,201 @@ p {
     display: inline-block;
     vertical-align: top;
     margin-left: 66px;
+}
+
+.lasttext {
+    margin-top: 32px;
+    width: 1021px;
+    height: 148px;
+}
+
+.logo {
+    margin-right: 41px;
+}
+
+.container2 {
+    margin-top: 44px;
+    margin-left: 52px;
+    margin-bottom: 280px;
+}
+
+
+/* news page styles */
+.container3 {
+    width: 1052px;
+    margin: 97px auto;
+}
+
+.container4 {
+    width: 1052px;
+    margin: 23px auto;
+}
+
+h5 {
+    color: #4E6FAE;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 150px;
+    height: 34px;
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.allnews {
+    color: #4E6FAE;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    width: 484px;
+    height: 34px;
+    margin-left: 5px;
+    vertical-align: bottom;
+
+}
+
+.line {
+    width: 2px;
+    height: 24px;
+    background-color: #5012D5;
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.graybox {
+    width: 500px;
+    height: 192px;
+    background-color: #E7E7E7;
+    margin-top: 26px;
+    padding: 21px 15px 32px 23px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 47px;
+}
+
+.graybox2 {
+    width: 500px;
+    height: 192px;
+    background-color: #E7E7E7;
+    margin-top: 26px;
+    padding: 21px 15px 32px 23px;
+    display: inline-block;
+}
+
+h6 {
+    width: 307px;
+    color: #3F4145;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 21px;
+}
+
+.magnifier {
+    vertical-align: middle;
+}
+
+.random {
+    color: #7E8898;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 335px;
+    height: 95px;
+    display: inline-block;
+    margin-left: 37px;
+    vertical-align: middle;
+}
+
+.random2 {
+    color: #7E8898;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 335px;
+    height: 95px;
+    display: inline-block;
+    margin-left: 30px;
+    vertical-align: top;
+}
+
+.container5 {
+    width: 1052px;
+    margin: 93px auto 193px auto;
+
+}
+
+/* contacts page staile */
+.container6 {
+    width: 1400px;
+    margin: 31px auto;
+}
+
+.container7 {
+    height: 735px;
+    background-color: #E7E7E7;
+    margin-top: 31px;
+}
+
+.info {
+    height: 200px;
+    width: 430px;
+    display: inline-block;
+    margin: 93px 30px 0px 162px;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+
+h8 {
+    color: #4E6FAE;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.add {
+    color: #7E8898;
+    font-family: "BPG Algeti Compact", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    line-height: 2.5;
+}
+
+.black {
+    color: #3F4145;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.map {
+    width: 800px;
+    height: 549px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 93px;
+}
+
+iframe {
+    height: 100%;
+    width: 100%;
+}
+
+.container8 {
+    width: 1400px;
+    margin: 106px auto 179px auto;
+
 }

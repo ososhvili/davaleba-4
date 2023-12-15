@@ -1,0 +1,91 @@
+ul {
+    display: inline-block;
+    vertical-align: top;
+}
+
+a {
+    margin: 50px;
+    vertical-align: top;
+}
+
+li {
+    color: #4E6FAE;
+    font-family: FiraGO;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.active {
+    color: #4E6FAE;
+}
+
+.head {
+    height: 80;
+    width: 100%;
+    margin-top: 50px;
+    margin-left: 52px;
+}
+
+.numberinbox {
+    height: 50px;
+    width: 50px;
+    background-color: #5012D5;
+    margin-bottom: 18px;
+}
+
+.container {
+    margin-top: 44px;
+    margin-left: 52px;
+}
+
+h2 {
+    color: #84FF81;
+    font-family: Helvetica;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 10px 10px;
+}
+
+h3 {
+    color: #8D81FF;
+    font-family: BPG Nino Mkhedruli;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+h4 {
+    color: #8D81FF;
+    color: #4E6FAE;
+    font-family: GL Tatishvili Metal;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 13px;
+}
+
+p {
+    color: #4E6FAE;
+    font-family: GL Kirovi;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.text {
+    width: 778px;
+    height: 353px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 66px;
+}
